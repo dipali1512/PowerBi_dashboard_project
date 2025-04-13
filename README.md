@@ -27,3 +27,4 @@ City and State slicers for easy data segmentation.
 Visuals include bar charts, pie charts, donut charts, and time-series line graphs for comprehensive insights.
 
 # Repository Structure
+Data: https://github.com/dipali1512/PowerBi_dashboard_project/blob/main/Analysis%20Daqi%20Orders%201jan-31mar025.pbix
